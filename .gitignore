@@ -18,8 +18,7 @@ ENV.bak/
 # Configuration IDE
 .vscode/
 .idea/
-*.sublime-project
-*.sublime-workspace
+
 
 # Fichiers générés par pip
 pip-log.txt
