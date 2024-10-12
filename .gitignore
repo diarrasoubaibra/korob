@@ -38,8 +38,6 @@ staticfiles/
 /local_settings.json
 
 # Fichiers de migration
-**/migrations/*.py
-**/migrations/*.pyc
 
 # Node modules (si vous utilisez un projet Django avec du JavaScript/Node)
 node_modules/
